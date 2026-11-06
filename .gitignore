@@ -1,0 +1,13 @@
+# 依赖与构建产物
+node_modules/
+dist/
+
+# 运行时数据（首次启动自动生成默认数据）
+data/
+
+# 临时 / 本地文件
+.DS_Store
+.ref/
+.chrome/
+.git-ssh/
+*.log
